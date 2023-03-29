@@ -1,6 +1,6 @@
 # Project4
 
-# Android Project 5 - *Name of App Here*
+# Android Project 5 - Bitfit
 
 Submitted by: Naresh Chintala
 
