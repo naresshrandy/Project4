@@ -12,16 +12,20 @@ Time spent: 6 hours spent in total
 
 The following **required** functionality is completed:
 
-- [x] **At least one health metric is tracked (based on user input)**
-  - Chosen metric: `[calories]`
-- [x] **There is a "create entry" UI that prompts users to make their daily entry**
-- [x] **New entries are saved in a database and then updated in the RecyclerView**
-- [x] **On application restart, previously entered entries are preserved (i.e., are *persistent*)**
- 
+- [x] **Use at least 2 Fragments**
+- [x] **Create a new dashboard fragment where users can see a summary of their entered data**
+- [x] **Use one of the Navigation UI Views (BottomNavigation, Drawer Layout, Top Bar) to move between the fragments**
+
 The following **optional** features are implemented:
 
-- [x] **Create a UI for tracking averages and trends in metrics**
-- [x] **Improve and customize the user interface through styling and coloring**
+- [ ] **Add a more advanced UI (e.g: Graphing) for tracking trends in metrics**
+- [ ] **Implement daily notifications to prompt users to fill in their data**
+
+The following **additional** features are implemented:
+
+- [ ] List anything else that you can get done to improve the app functionality!
+
+## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
 
@@ -31,3 +35,4 @@ Here's a walkthrough of implemented user stories:
 GIF created with ...  
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
+
